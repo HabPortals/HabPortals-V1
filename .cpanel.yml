@@ -1,5 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/<user_name>/public_html #Add /<sub_folder> if required
-    - /bin/cp -r * $DEPLOYPATH
+    - export DEPLOYPATH=/home/habbofe1/public_html/
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp style.css $DEPLOYPATH
