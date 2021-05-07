@@ -1,0 +1,285 @@
+[13-Mar-2021 15:01:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:01:34 UTC] PHP Warning:  Undefined variable $conn in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:01:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:5
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(5): mysqli_real_escape_string(NULL, 'Nathan')
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:02:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'shareour_shinano'@'localhost' to database 'shareour_athenasupport' in /home/shareour/portal.habbofests.com/support/inc/database.php on line 8
+[13-Mar-2021 15:02:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:02:25 UTC] PHP Warning:  Undefined variable $conn in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:25 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:5
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(5): mysqli_real_escape_string(NULL, 'Nathan')
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:02:30 UTC] PHP Warning:  Undefined variable $conn in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:30 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:30 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:5
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(5): mysqli_real_escape_string(NULL, NULL)
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:02:32 UTC] PHP Warning:  Undefined variable $conn in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:32 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:32 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:5
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(5): mysqli_real_escape_string(NULL, NULL)
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:02:40 UTC] PHP Warning:  Undefined variable $conn in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:40 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:5
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(5): mysqli_real_escape_string(NULL, NULL)
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:02:41 UTC] PHP Warning:  Undefined variable $conn in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:41 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:41 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:5
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(5): mysqli_real_escape_string(NULL, NULL)
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:02:53 UTC] PHP Warning:  Undefined variable $conn in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:02:53 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:5
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(5): mysqli_real_escape_string(NULL, 'Nathan')
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:03:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:03:22 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:03:22 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:03:22 UTC] PHP Warning:  Undefined variable $finduser in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 10
+[13-Mar-2021 15:03:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:10
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(10): mysqli_fetch_array(NULL)
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 10
+[13-Mar-2021 15:03:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:03:39 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:03:39 UTC] PHP Warning:  Undefined variable $finduser in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 10
+[13-Mar-2021 15:03:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:10
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(10): mysqli_fetch_array(NULL)
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 10
+[13-Mar-2021 15:04:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:04:38 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:04:38 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:04:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:04:48 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:04:48 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:04:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:04:53 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:05:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:05:13 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:05:13 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:05:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_num_rows() expects exactly 1 argument, 2 given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:11
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(11): mysqli_num_rows(Object(mysqli), Object(mysqli_result))
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 11
+[13-Mar-2021 15:05:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:05:24 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:05:24 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:05:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:05:38 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:05:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:05:47 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:05:47 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:05:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:05:51 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:06:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:06:11 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:06:11 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:06:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:11
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(11): mysqli_num_rows(NULL)
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 11
+[13-Mar-2021 15:06:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:06:13 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:06:13 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:06:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:11
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(11): mysqli_num_rows(NULL)
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 11
+[13-Mar-2021 15:06:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:06:26 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:06:26 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:06:26 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:11
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(11): mysqli_num_rows(NULL)
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 11
+[13-Mar-2021 15:06:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:06:26 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:06:26 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:06:26 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:11
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(11): mysqli_num_rows(NULL)
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 11
+[13-Mar-2021 15:06:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:06:40 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:06:40 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:06:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:06:44 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:06:44 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:06:44 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:11
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(11): mysqli_num_rows(NULL)
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 11
+[13-Mar-2021 15:06:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:06:48 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:06:48 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:11:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:11:01 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:11:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:11:08 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:12:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:12:07 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:12:07 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_fetch_assoc() expects exactly 1 argument, 2 given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:12
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(12): mysqli_fetch_assoc(Object(mysqli), Object(mysqli_result))
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 12
+[13-Mar-2021 15:12:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:12:21 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:12:21 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_fetch_assoc() expects exactly 1 argument, 2 given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:12
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(12): mysqli_fetch_assoc(Object(mysqli), Object(mysqli_result))
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 12
+[13-Mar-2021 15:12:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:12:22 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:12:22 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:12:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_fetch_assoc() expects exactly 1 argument, 2 given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:12
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(12): mysqli_fetch_assoc(Object(mysqli), Object(mysqli_result))
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 12
+[13-Mar-2021 15:12:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:12:36 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:12:36 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:12:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:12:42 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:12:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:12:48 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:15:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:15:24 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:15:24 UTC] PHP Warning:  Undefined variable $conn in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 11
+[13-Mar-2021 15:15:24 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:11
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(11): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 11
+[13-Mar-2021 15:15:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:15:26 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:15:26 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:15:26 UTC] PHP Warning:  Undefined variable $conn in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 11
+[13-Mar-2021 15:15:26 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/shareour/portal.habbofests.com/support/inc/userlogin.php:11
+Stack trace:
+#0 /home/shareour/portal.habbofests.com/support/inc/userlogin.php(11): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 11
+[13-Mar-2021 15:15:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:15:34 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:15:34 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:15:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:15:39 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:16:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:16:07 UTC] PHP Warning:  Undefined array key "username" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 5
+[13-Mar-2021 15:16:07 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:16:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:16:12 UTC] PHP Warning:  Undefined array key "password" in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 6
+[13-Mar-2021 15:17:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:19:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:19:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shareour/portal.habbofests.com/support/inc/database.php:1) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 18
+[13-Mar-2021 15:19:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:21:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:22:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:22:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:24:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:24:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:24:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:24:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:24:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shareour/portal.habbofests.com/support/inc/database.php:1) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 18
+[13-Mar-2021 15:24:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:24:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:24:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:24:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:24:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:25:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:25:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:25:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:26:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:26:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shareour/portal.habbofests.com/support/inc/database.php:1) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 22
+[13-Mar-2021 15:41:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:41:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shareour/portal.habbofests.com/support/inc/database.php:1) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 22
+[13-Mar-2021 15:41:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 15:41:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Mar-2021 16:26:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so (libicuio.so.67: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so (/opt/cpanel/ea-php80/root/usr/lib64/php/modules/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[16-Mar-2021 14:02:25 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 30
+[16-Mar-2021 14:02:29 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 30
+[16-Mar-2021 14:02:31 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 30
+[16-Mar-2021 14:02:34 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 30
+[16-Mar-2021 14:02:35 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 30
+[16-Mar-2021 14:02:35 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 30
+[16-Mar-2021 14:02:35 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 30
+[16-Mar-2021 14:02:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 32
+[16-Mar-2021 14:05:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 32
+[16-Mar-2021 14:05:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shareour/portal.habbofests.com/support/inc/database.php:1) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 38
+[16-Mar-2021 14:05:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 32
+[16-Mar-2021 14:05:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shareour/portal.habbofests.com/support/inc/database.php:1) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 33
+[16-Mar-2021 14:06:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 32
+[16-Mar-2021 14:06:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shareour/portal.habbofests.com/support/inc/database.php:1) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 33
+[16-Mar-2021 14:09:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 32
+[16-Mar-2021 14:09:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 32
+[16-Mar-2021 14:10:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 32
+[16-Mar-2021 14:10:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 32
+[16-Mar-2021 14:10:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shareour/portal.habbofests.com/support/inc/database.php:1) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 33
+[16-Mar-2021 14:10:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 32
+[16-Mar-2021 14:10:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shareour/portal.habbofests.com/support/inc/database.php:1) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 33
+[16-Mar-2021 14:11:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shareour/portal.habbofests.com/support/inc/database.php:1) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
+[16-Mar-2021 14:11:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 32
+[16-Mar-2021 14:11:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shareour/portal.habbofests.com/support/inc/database.php:1) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 33
+[16-Mar-2021 14:11:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 32
+[16-Mar-2021 14:11:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shareour/portal.habbofests.com/support/inc/database.php:1) in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 33
+[16-Mar-2021 14:13:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 32
+[16-Mar-2021 14:16:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
+[16-Mar-2021 14:16:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
+[16-Mar-2021 14:29:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
+[16-Mar-2021 14:31:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
+[16-Mar-2021 14:31:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
+[16-Mar-2021 14:32:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
+[16-Mar-2021 14:32:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
+[16-Mar-2021 14:33:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
+[16-Mar-2021 14:33:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
+[16-Mar-2021 14:33:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
+[16-Mar-2021 14:35:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 4
+[16-Mar-2021 14:35:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 4
+[16-Mar-2021 14:36:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 4
+[16-Mar-2021 14:36:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 4
+[16-Mar-2021 14:36:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 4
+[16-Mar-2021 14:36:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 4
+[16-Mar-2021 14:37:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 4
+[16-Mar-2021 14:38:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 4
+[16-Mar-2021 14:38:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 4
+[16-Mar-2021 14:38:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 4
+[16-Mar-2021 14:39:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 32
+[16-Mar-2021 14:40:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 32
+[16-Mar-2021 14:43:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 33
+[16-Mar-2021 14:44:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
+[18-Mar-2021 22:26:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
+[18-Mar-2021 22:26:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
+[09-Apr-2021 12:03:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/shareour/portal.habbofests.com/support/inc/userlogin.php on line 28
