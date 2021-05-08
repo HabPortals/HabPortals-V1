@@ -1,5 +1,3 @@
----
+    ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/habbofe1/public_html/
-    - /bin/cp -R * $DEPLOYPATH
