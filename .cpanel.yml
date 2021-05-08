@@ -1,5 +1,6 @@
-    ---
+---
 deployment:
-  tasks:
-    - export DEPLOYPATH=/home/habbofe1/public_html
-    - /bin/cp -R * $DEPLOYPATH
+      tasks:
+        - export DEPLOYPATH=/home/<username>/public_html  # Add /<app_folder> if required
+        - /bin cp * $DEPLOYPATH                           #copy all from root 
+        - /bin/cp -r * $DEPLOYPATH                        #copy all recursively to $DEPLOYPATH
