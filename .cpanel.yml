@@ -1,6 +1,5 @@
----
-deployment:
-      tasks:
-        - export DEPLOYPATH=/home/<username>/public_html  # Add /<app_folder> if required
-        - /bin cp * $DEPLOYPATH                           #copy all from root 
-        - /bin/cp -r * $DEPLOYPATH                        #copy all recursively to $DEPLOYPATH
+deployment:    
+  tasks:  
+    - PATH=/home/habbofe1/www/:$PATH  
+    - npm i  
+    - npm run build  
