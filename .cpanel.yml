@@ -1,5 +1,5 @@
-deployment:    
-  tasks:  
-    - PATH=/home/habbofe1/www/:$PATH  
-    - npm i  
-    - npm run build  
+---
+deployment:
+ tasks:
+ - export DEPLOYPATH=/home/habbofe1/public_html/
+ - /bin/cp -R * $DEPLOYPATH
